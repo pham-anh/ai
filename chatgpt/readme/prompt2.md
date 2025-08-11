@@ -65,7 +65,6 @@ ChatModelGPT5
 
 ### Response
 
-```
 Do you mean:
 - Small language model (machine learning)
 - Selective laser melting (metal 3D printers)
@@ -77,4 +76,3 @@ If you mean small language model: “cheapest” depends on whether you want a h
 - Hosted APIs (historically low cost): OpenAI gpt-4o-mini and Google Gemini 1.5 Flash have been among the lowest per-token general models; low-cost hosts also offer Llama 3/3.1 8B at budget rates. Exact “cheapest” changes frequently—best to compare current input/output token prices versus your expected token mix.
 
 If you clarify which SLM and whether you want API or self-host, your region, and expected volume, I can name the cheapest option and estimate your monthly cost.
-```
